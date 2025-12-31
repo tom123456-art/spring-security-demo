@@ -16,4 +16,4 @@
 终端执行：
 #### `curl.exe -u test:123456 http://localhost:8080/api/hello`
 
-
+ ![运行截图](end.png)
